@@ -2,12 +2,12 @@ This module loads geospatial data from MapCruzin (www.mapcruzin.com) into Orient
 
 
 How to install (requires Node.js):
-
+```
 npm init
 npm install orientjs
 npm install fast-csv
 npm install
-
+```
 
 How to start:
 
