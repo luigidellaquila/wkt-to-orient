@@ -16,11 +16,10 @@ How to start:
 3. Start OrientDB server and create a new DB 
 4. Open the DB from Studio and execute the following statements:
 
-```
-CREATE CLASS POI
-
-CREATE PROPERTY POI.location EMBEDDED OPoint
-```
+   ```
+   CREATE CLASS POI
+   CREATE PROPERTY POI.location EMBEDDED OPoint
+  ```
 
 5. From a shell, in the root project directory
 ```
