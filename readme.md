@@ -22,6 +22,13 @@ How to start:
   ```
 
 5. From a shell, in the root project directory
-```
-> node csvimport.js POI data/poland-poi.csv 
-```
+   ```
+   > node csvimport.js POI data/poland-poi.csv 
+   ```
+   
+For help and parameter list, just type the following:
+
+   ```
+   > node csvimport.js
+   ```
+
